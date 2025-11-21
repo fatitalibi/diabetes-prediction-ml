@@ -24,6 +24,6 @@ This project predicts whether a person has diabetes using the PIMA Diabetes data
    - Simple predictive system for individual input data
 
 ## Results
-- Training Accuracy: ~XX%
-- Test Accuracy: ~XX%
+- Training Accuracy: 78.6%
+- Test Accuracy: 77.2%
 - The model can predict diabetes status for new input data
