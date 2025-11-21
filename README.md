@@ -27,9 +27,3 @@ This project predicts whether a person has diabetes using the PIMA Diabetes data
 - Training Accuracy: ~XX%
 - Test Accuracy: ~XX%
 - The model can predict diabetes status for new input data
-
-## Usage
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
