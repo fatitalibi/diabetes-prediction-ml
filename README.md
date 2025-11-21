@@ -5,6 +5,7 @@ This project predicts whether a person has diabetes using the PIMA Diabetes data
 
 ## Dataset
 - PIMA Diabetes Dataset (publicly available)
+- Download CSV here: [Kaggle Dataset Link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - Contains 8 clinical features such as glucose level, BMI, age, etc.
 - Outcome: 0 = Non-diabetic, 1 = Diabetic
 
